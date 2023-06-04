@@ -22,6 +22,7 @@ BuildRequires:  pipewire-devel
 BuildRequires:  llvm-devel
 BuildRequires:  clang-libs
 BuildRequires:  clang-devel
+BuildRequires:  systemd
 BuildRequires:  systemd-rpm-macros  
 # Required packages to build just on OpenMandriva
 %if 0%{?mdkversion}
